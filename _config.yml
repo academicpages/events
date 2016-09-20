@@ -81,7 +81,7 @@ author:
   avatar           : "profile.png"
   bio              : "A description of your event for the left-hand sidebar"
   location         : "Location, Place"
-  employer         : 
+  employer         : "Institution"
   googlescholar    : 
   email            : 
   uri              : 
@@ -89,7 +89,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "facebookurl"
   foursquare       :
   github           : "academicpages"
   google_plus      :
@@ -107,7 +107,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        : 
 
 
