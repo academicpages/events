@@ -1,6 +1,6 @@
 ---
 permalink: /schedule/
-title: "Scheudle"
+title: "Schedule"
 author_profile: true
 redirect_from: 
   - /agenda/
