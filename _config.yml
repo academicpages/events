@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : 
 facebook:
   username               : 
   app_id                 :
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "TPPA"
+  name             : 
   avatar           : 
   bio              : "Workshop organized in conjunction with ICPM 2020"
   location         : "Padua, Italy"
-  employer         : ""
+  employer         : 
   googlescholar    : 
   email            : 
   uri              : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@icpm_conf"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
