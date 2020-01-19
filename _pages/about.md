@@ -28,3 +28,15 @@ The main objective of the TPPA workshop is to give a forum for the trust and pri
 * Responsible Process Analytics
 * Explainable Process Analytics
 * Data Quality, and Traceability in Process Analytics
+
+## Organizing Committee
+*	Felix Mannhardt, SINTEF/ Norwegian University of Science and Technology
+  (felix.mannhardt@sintef.no)
+*	Agnes Koschmider, Kiel University
+*	Nathalie Baracaldo, IBM Almaden Research Center
+
+Please direct questions about TPPA to *Felix Mannhardt*.
+
+## Program committee (tentative)
+
+TO BE ANNOUNCED
