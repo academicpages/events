@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "Call for Papers"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Workshop description
+## Workshop description
 
 Process mining has been successfully applied in analysing and improving processes based on event logs in all kinds of environments. However, the impact of trust and privacy on the technical design as well as the organizational application of process mining has been largely neglected. Both topics are closely related to the responsible application of data science, a topic that has gotten more attention in recent years as data-driven methods start to permeate our society.
 
@@ -15,7 +15,7 @@ Privacy relates to the concern that event logs may contain personal data of both
 
 The main objective of the TPPA workshop is to give a forum for the trust and privacy aspects and responsible application of process mining. Privacy and trust are important perspectives on process mining as it gets more widely used in organizations worldwide. We invite researchers and industry to share their research, ideas, experiences, and concerns in this area. The topics of interest for tis workshop, but not limited to, are provided below.
 
-# Workshop topics
+## Workshop topics
 
 * Privacy-preserving methods for Process Analytics (Process Mining, Data Mining, Machine Learning)
 * Privacy-preserving Methods for Business Process Management
