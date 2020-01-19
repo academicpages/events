@@ -8,6 +8,11 @@ redirect_from:
 
 # Venue
 
+See the information provided by ICPM here:
+
+* https://icpmconference.org/2020/how-to-reach-padova/
+* https://icpmconference.org/2020/venue/
+
 # Hotels
 
-# Food
+TO BE ANNOUNCED
