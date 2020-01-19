@@ -79,9 +79,9 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.png"
-  bio              : "A description of your event for the left-hand sidebar"
-  location         : "Location, Place"
-  employer         : "Institution"
+  bio              : "Workshop is organized in conjunction with ICPM 2020"
+  location         : "Padua, Italy"
+  employer         : ""
   googlescholar    : 
   email            : 
   uri              : 
@@ -89,9 +89,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "facebookurl"
+  facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
