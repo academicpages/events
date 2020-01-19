@@ -6,8 +6,8 @@ main:
   - title: "Submission"
     url: /submission/
     
-  - title: "Schedule"
-    url: /schedule/    
+  - title: "Program"
+    url: /program/    
 
   - title: "Logistics"
     url: /logistics/      
