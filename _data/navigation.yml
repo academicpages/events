@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "About"
+  - title: "Call for Papers"
     url: /
 
   - title: "Schedule"
@@ -12,13 +12,7 @@ main:
   - title: "Submission"
     url: /submission/
     
-  - title: "Registration"
-    url: /registration/
-        
-  - title: "Code of Conduct"
-    url: /conduct/
+  - title: "ICPM"
+    url: https://icpmconference.org/2020/
 
-  - title: "Blog"
-    url: /year-archive/
-    
 
