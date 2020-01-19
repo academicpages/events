@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
-  avatar           : "profile.png"
-  bio              : "Workshop is organized in conjunction with ICPM 2020"
+  name             : "TPPA"
+  avatar           : 
+  bio              : "Workshop organized in conjunction with ICPM 2020"
   location         : "Padua, Italy"
   employer         : ""
   googlescholar    : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "@icpm_conf"
   vine             :
   weibo            :
   xing             :
