@@ -3,16 +3,16 @@ main:
   - title: "Call for Papers"
     url: /
 
+  - title: "Submission"
+    url: /submission/
+    
   - title: "Schedule"
     url: /schedule/    
 
   - title: "Logistics"
-    url: /logistics/    
-
-  - title: "Submission"
-    url: /submission/
+    url: /logistics/      
     
-  - title: "ICPM"
+  - title: "ICPM 2020"
     url: https://icpmconference.org/2020/
 
 
