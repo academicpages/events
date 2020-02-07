@@ -21,11 +21,11 @@ Authors should submit original, unpublished research papers. All papers must not
 * Short Paper submissions have a maximum of 6 pages.
 
 Authors should follow the Springer formatting for Lecture Notes on Computer Science as indicated here:
-http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+[http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 ## Submission
 Papers and abstracts should be submitted through the Easy Chair web site in PDF format:
-https://easychair.org/conferences/?conf=tppa2020
+[https://easychair.org/conferences/?conf=tppa2020](https://easychair.org/conferences/?conf=tppa2020)
 
 By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. It is expected that at least one author will register for each accepted paper. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 
