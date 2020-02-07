@@ -37,6 +37,12 @@ The main objective of the TPPA workshop is to give a forum for the trust and pri
 
 Please direct questions about TPPA to *Felix Mannhardt*.
 
-## Program committee (tentative)
+## Program committee (to be extended)
 
-TO BE ANNOUNCED
+*	Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
+*	Stephan Fahrenkrog-Petersen, Humboldt University of Berlin
+*	Judith Michael, RWTH Aachen / FIT
+*	Florian Tschorsch, Technical University Berlin
+*	Melanie Volkamer, Karlsruhe Institute of Technology
+*	Moe Wynn, Queensland University of Technology
+*	Sebastiaan van Zelst, RWTH Aachen / FIT
