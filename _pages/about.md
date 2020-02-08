@@ -41,7 +41,8 @@ Please direct questions about TPPA to *Felix Mannhardt*.
 
 *	Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
 *	Stephan Fahrenkrog-Petersen, Humboldt University of Berlin
-*	Judith Michael, RWTH Aachen / FIT
+* Marwan Hassani, TU Eindhoven
+*	Judith Michael, RWTH Aachen
 *	Florian Tschorsch, Technical University Berlin
 *	Melanie Volkamer, Karlsruhe Institute of Technology
 *	Moe Wynn, Queensland University of Technology
