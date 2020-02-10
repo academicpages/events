@@ -4,16 +4,18 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<div itemscope itemtype="http://schema.org/Person">
+<div>
 
   <div class="author__content"> 
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     
     <a href="https://icpmconference.org/2020/"><img src="images/ICPM_Logo-1024x314-e1558427587186.png"></a>    
   </div>
-  
+ 
+  <div class="author__content">
+    An activity of the <b>IEEE Task Force on Process Mining</b><br/>
     <a href="https://www.win.tue.nl/ieeetfpm/"><img src="images/IEEETF-150x150.jpeg" style="width: 150px"></a>
-    An activity of the <b>IEEE Task Force on Process Mining</b>  
+  </div>    
   
 </div>
 
