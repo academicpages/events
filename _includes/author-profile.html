@@ -7,24 +7,16 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name">{{ author.name }}</h3>        
+    
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    
+    <a href="https://icpmconference.org/2020/"><img src="images/ICPM_Logo-1024x314-e1558427587186.png"></a>
+    
   </div>
-
-  <div class="author__urls-wrapper">
-    <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
-      {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
-      {% endif %}
-      
-              
-        <a href="https://www.win.tue.nl/ieeetfpm/"><img src="images/IEEETF-150x150.jpeg" style="width: 150px"></a>
-        An activity of the <b>IEEE Task Force on Process Mining</b>
-      
-    </ul>
-  </div>
+  
+    <a href="https://www.win.tue.nl/ieeetfpm/"><img src="images/IEEETF-150x150.jpeg" style="width: 150px"></a>
+    An activity of the <b>IEEE Task Force on Process Mining</b>  
+  
 </div>
 
