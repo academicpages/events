@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+## Announcement - Virtual workshop due to COVID-19 pandemic
+
+As already announced on the official ICPM page, the conference and also the workshops are converted to a virtual experience. All workshop days and deadlines are kept as announced. We hope that this makes ICPM and the TPPA workshop more accessible and we will try to facilitate discussions even in the virtual workshop. Here the information published on the ICPM website:     
+
+*Due to the exceptional circumstances of the COVID-19 outbreak, ICPM 2020 will be a fully virtual conference, with no travel involved. However, the entire program, including the co-located events, will be retained, and will not change. With the spirit of keeping the entire conference as interactive as possible, presentations will be given live using webinars. The presentations will also be broadcasted, and also available after the conference for off-line viewing. Attendees will be able to ask questions, which will be answered at the end of the each presentation. When multiple sessions run in parallel (e.g., workshops), the conference will feature parallel virtual rooms.*
+
+
 ## Workshop description
 
 Process mining has been successfully applied in analysing and improving processes based on event logs in all kinds of environments. However, the impact of trust and privacy on the technical design as well as the organizational application of process mining has been largely neglected. Both topics are closely related to the responsible application of data science, a topic that has gotten more attention in recent years as data-driven methods start to permeate our society.
