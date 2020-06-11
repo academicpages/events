@@ -47,6 +47,7 @@ Please direct questions about TPPA to *Felix Mannhardt*.
 ## Program committee (to be extended)
 
 *	Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
+* Olivia Choudhury, Amazon Inc.
 *	Stephan Fahrenkrog-Petersen, Humboldt University of Berlin
 * Marwan Hassani, TU Eindhoven
 *	Judith Michael, RWTH Aachen
