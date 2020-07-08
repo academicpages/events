@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+## Announcement - Deadline extension
+
+In accordance with the deadline extension announced for the main track of the ICPM conference, we also extend the submission deadline of the TPPA workshop by one week to the 25 August 2020. We are looking forward to receive your papers. 
+
 ## Announcement - Virtual workshop due to COVID-19 pandemic
 
 As already announced on the official ICPM page, the conference and also the workshops are converted to a virtual experience. All workshop days and deadlines are kept as announced. We hope that this makes ICPM and the TPPA workshop more accessible and we will try to facilitate discussions even in the virtual workshop. Here the information published on the ICPM website:     
