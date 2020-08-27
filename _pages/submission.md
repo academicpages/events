@@ -6,8 +6,8 @@ author_profile: true
 
 ## Important dates
 
-* Submission of Workshop-Paper Abstracts: **25 August 2020** ~~18 August 2020~~
-* Submission of Workshop Papers: 1 September 2020 ~~25 August 2020~~
+* Submission of Workshop-Paper Abstracts: **1 September 2020** ~~25 August 2020~~
+* Submission of Workshop Papers: **4 September 2020** ~~1 September 2020~~
 * Workshop-Paper Notification: 22 September 2020 ~~14 September 2020~~
 * Camera-Ready Submissions of Workshop Papers: 29 September ~~22 September 2020~~
 * Workshop Day: 5 October 2020
