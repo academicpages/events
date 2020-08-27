@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## Announcement - Deadline extension
+## Announcement - Second Deadline extension
 
-In accordance with the deadline extension announced for the main track of the ICPM conference, we also extend the submission deadline of the TPPA workshop by one week to the 25 August 2020. We are looking forward to receive your papers. 
+Do you need more time to finish your paper on Trust and Privacy aspects of Process Mining? We have just extended the deadlines by another week to 1st September (abstract) and 4th September (full paper) respectively. 
 
 ## Announcement - Virtual workshop due to COVID-19 pandemic
 
@@ -42,7 +42,7 @@ The main objective of the TPPA workshop is to give a forum for the trust and pri
 
 ## Organizing Committee
 *	Felix Mannhardt, SINTEF/ Norwegian University of Science and Technology
-  (felix.mannhardt@sintef.no)
+  (mail@fmannhardt.de)
 *	Agnes Koschmider, Kiel University
 *	Nathalie Baracaldo, IBM Almaden Research Center
 
