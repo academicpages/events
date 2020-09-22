@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-## Announcement - Second Deadline extension
+## Announcement - Panel Discussion
 
-Do you need more time to finish your paper on Trust and Privacy aspects of Process Mining? We have just extended the deadlines by another week to 1st September (abstract) and 4th September (full paper) respectively. 
+We are very excited that in the context of the 1st Workshop on Trust and Privacy in Process Analytics (TPPA), we are organizing a virtual panel discussion on the topic of Trust and Privacy in Process Analytics. For the panel we have invited four participants with a wide experience in both Process Mining applications and research:
 
-## Announcement - Virtual workshop due to COVID-19 pandemic
+* Moe Wynn, Professor leading the BPM group at Queensland University of Technology
+* Lars Biermann, Senior Manager at Deloitte
+* Jana Lange, IT-Risk Manager at Celonis
+* Florian Tschorsch, Assistant Professor leading the Distributed Security Infrastructures group at TU Berlin
 
-As already announced on the official ICPM page, the conference and also the workshops are converted to a virtual experience. All workshop days and deadlines are kept as announced. We hope that this makes ICPM and the TPPA workshop more accessible and we will try to facilitate discussions even in the virtual workshop. Here the information published on the ICPM website:     
-
-*Due to the exceptional circumstances of the COVID-19 outbreak, ICPM 2020 will be a fully virtual conference, with no travel involved. However, the entire program, including the co-located events, will be retained, and will not change. With the spirit of keeping the entire conference as interactive as possible, presentations will be given live using webinars. The presentations will also be broadcasted, and also available after the conference for off-line viewing. Attendees will be able to ask questions, which will be answered at the end of the each presentation. When multiple sessions run in parallel (e.g., workshops), the conference will feature parallel virtual rooms.*
-
+The exact program will be published soon. Don't forget to register for free at the [ICPM website](https://icpmconference.org/2020/registration/).  
 
 ## Workshop description
 
