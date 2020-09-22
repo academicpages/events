@@ -48,7 +48,7 @@ The main objective of the TPPA workshop is to give a forum for the trust and pri
 
 Please direct questions about TPPA to *Felix Mannhardt*.
 
-## Program committee (to be extended)
+## Program committee
 
 *	Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
 * Olivia Choudhury, Amazon Inc.
