@@ -8,17 +8,11 @@ redirect_from:
 
 ## Venue
 
-See the information provided by ICPM here:
-
-* [How to reach Padova](https://icpmconference.org/2020/how-to-reach-padova/)
-* [Venue](https://icpmconference.org/2020/venue/)
+ICPM is going to be a fully virtual conference. 
 
 ## Registration
 
-Participants need to register according to the rules and conditions described here on the ICPM website:
+Registration for ICPM is free for participants without a publication, authors of accepted papers need to pay a reduced publication fee:
 
 * [Registration @ ICPM](https://icpmconference.org/2020/registration/)
-
-## Hotels
-
-TO BE ANNOUNCED
+* [Publication Fee](https://icpmconference.org/2020/publication-fee/)
